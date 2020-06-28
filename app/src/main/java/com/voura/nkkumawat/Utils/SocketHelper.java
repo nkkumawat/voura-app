@@ -1,4 +1,4 @@
-package com.vuora.nkkumawat.Utils;
+package com.voura.nkkumawat.Utils;
 
 import io.socket.client.IO;
 import io.socket.client.Socket;

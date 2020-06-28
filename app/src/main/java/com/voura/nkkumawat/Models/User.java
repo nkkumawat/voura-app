@@ -1,4 +1,4 @@
-package com.vuora.nkkumawat.Models;
+package com.voura.nkkumawat.Models;
 
 public class User {
     public String username = "";

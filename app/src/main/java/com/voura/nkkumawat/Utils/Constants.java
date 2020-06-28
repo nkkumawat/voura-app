@@ -1,4 +1,4 @@
-package com.vuora.nkkumawat.Utils;
+package com.voura.nkkumawat.Utils;
 
 public class Constants {
 //    public static String SERVER_URL = "http://ec2-18-218-187-144.us-east-2.compute.amazonaws.com:4002";

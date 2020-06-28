@@ -1,4 +1,4 @@
-package com.vuora.nkkumawat.Utils;
+package com.voura.nkkumawat.Utils;
 
 import java.util.Random;
 

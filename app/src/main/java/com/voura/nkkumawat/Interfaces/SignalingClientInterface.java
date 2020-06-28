@@ -1,4 +1,4 @@
-package com.vuora.nkkumawat.Interfaces;
+package com.voura.nkkumawat.Interfaces;
 
 import org.json.JSONObject;
 

@@ -1,4 +1,4 @@
-package com.vuora.nkkumawat;
+package com.voura.nkkumawat;
 
 import android.content.Context;
 

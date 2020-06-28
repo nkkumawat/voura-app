@@ -1,4 +1,4 @@
-package com.vuora.nkkumawat;
+package com.voura.nkkumawat;
 
 import android.Manifest;
 import android.app.AlertDialog;
@@ -23,10 +23,10 @@ import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
 
 import com.google.android.material.navigation.NavigationView;
-import com.vuora.nkkumawat.Adapter.UserAdapter;
-import com.vuora.nkkumawat.Models.User;
-import com.vuora.nkkumawat.Utils.SocketHelper;
-import com.vuora.nkkumawat.Utils.Util;
+import com.voura.nkkumawat.Adapter.UserAdapter;
+import com.voura.nkkumawat.Models.User;
+import com.voura.nkkumawat.Utils.SocketHelper;
+import com.voura.nkkumawat.Utils.Util;
 
 import org.json.JSONArray;
 import org.json.JSONException;

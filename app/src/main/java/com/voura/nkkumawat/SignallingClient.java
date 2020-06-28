@@ -1,7 +1,7 @@
-package com.vuora.nkkumawat;
+package com.voura.nkkumawat;
 
-import com.vuora.nkkumawat.Interfaces.SignalingClientInterface;
-import com.vuora.nkkumawat.Utils.SocketHelper;
+import com.voura.nkkumawat.Interfaces.SignalingClientInterface;
+import com.voura.nkkumawat.Utils.SocketHelper;
 
 import org.json.JSONException;
 import org.json.JSONObject;

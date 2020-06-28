@@ -1,4 +1,4 @@
-package com.vuora.nkkumawat.Adapter;
+package com.voura.nkkumawat.Adapter;
 
 import android.content.Context;
 import android.content.Intent;
@@ -7,9 +7,9 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
-import com.vuora.nkkumawat.Models.User;
-import com.vuora.nkkumawat.R;
-import com.vuora.nkkumawat.VideoActivity;
+import com.voura.nkkumawat.Models.User;
+import com.voura.nkkumawat.R;
+import com.voura.nkkumawat.VideoActivity;
 
 import java.util.ArrayList;
 

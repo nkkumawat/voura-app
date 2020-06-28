@@ -1,4 +1,4 @@
-package com.vuora.nkkumawat;
+package com.voura.nkkumawat;
 
 import android.Manifest;
 import android.content.pm.PackageManager;
@@ -22,8 +22,8 @@ import androidx.core.content.ContextCompat;
 import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
 
-import com.vuora.nkkumawat.Interfaces.SignalingClientInterface;
-import com.vuora.nkkumawat.Utils.SocketHelper;
+import com.voura.nkkumawat.Interfaces.SignalingClientInterface;
+import com.voura.nkkumawat.Utils.SocketHelper;
 
 import org.json.JSONException;
 import org.json.JSONObject;
